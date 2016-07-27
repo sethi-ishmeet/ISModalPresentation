@@ -1,6 +1,8 @@
 # ISModalPresentation
 ### This is an iOS Mail Compose style custom presentation controller. Follow the steps below to use it in your project.
 
+<img src="https://github.com/sethi-ishmeet/ISModalPresentation/blob/master/ISModalPresentation.gif" width="300">
+
 ## Steps: 
 1. Copy and paste the following files in your project:
     * ISTransitioningDelegate.swift

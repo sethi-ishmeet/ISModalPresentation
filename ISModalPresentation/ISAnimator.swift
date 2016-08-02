@@ -24,7 +24,6 @@ class ISAnimator: NSObject, UIViewControllerAnimatedTransitioning {
         let toView = transitionContext.viewControllerForKey(UITransitionContextToViewControllerKey)?.view
         
         var center: CGPoint?
-        
         let transform = CGAffineTransformMakeTranslation(0.0, verticalOffset)
         
         if isPresenting {
